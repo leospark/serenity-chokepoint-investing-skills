@@ -1,4 +1,4 @@
-# Serenity Chokepoint Investing Skill（宁静式瓶颈投资技能）
+# Serenity Chokepoint Investing Skill（安静哥投资框架技能）
 
 ![Serenity Framework](serenity-x.png)
 
