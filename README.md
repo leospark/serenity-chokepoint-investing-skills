@@ -2,7 +2,7 @@
 
 ![Serenity Framework](serenity-x.png)
 
-[中文版说明](README_CN.md) | [English Version](README.md)
+[中文说明](README_CN.md) | [English Version](README.md)
 
 A Hermes / OpenClaw compatible research skill for analyzing public equities through the lens of AI infrastructure supply-chain chokepoints.
 
