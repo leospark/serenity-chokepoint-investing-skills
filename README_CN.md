@@ -2,6 +2,8 @@
 
 ![Serenity Framework](serenity-x.png)
 
+[English Version](README.md) | [中文版说明](README_CN.md)
+
 一个兼容 Hermes / OpenClaw 的研究技能，用于通过 AI 基础设施供应链瓶颈视角分析公开股票。
 
 本技能灵感来源于 Serenity 风格投资框架：不只是买入显而易见的 AI 龙头，而是专注于识别 AI 工业供应链中的隐藏瓶颈。
