@@ -1,5 +1,7 @@
 # Serenity Chokepoint Investing Skill
 
+![Serenity Framework](serenity-x.png)
+
 A Hermes / OpenClaw compatible research skill for analyzing public equities through the lens of AI infrastructure supply-chain chokepoints.
 
 This skill is inspired by the Serenity-style investment framework: instead of simply buying obvious AI leaders, it focuses on identifying hidden bottlenecks across the AI industrial supply chain.
