@@ -226,7 +226,7 @@ serenity-chokepoint-investing-skill/
 
 Clone this repository:
 
-git clone https://github.com/your-username/serenity-chokepoint-investing-skill.git
+git clone https://github.com/leospark/serenity-chokepoint-investing-skills.git
 
 Then copy the skill folder into your Hermes or OpenClaw skills directory:
 
