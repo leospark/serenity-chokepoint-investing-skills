@@ -1,4 +1,4 @@
-# Serenity Chokepoint Investing Skill（宁静式瓶颈投资技能）
+# Serenity Chokepoint Investing Skill（安静哥投资框架技能）
 
 一个兼容 Hermes / OpenClaw 的研究技能，用于通过 AI 基础设施供应链瓶颈视角分析公开股票。
 
